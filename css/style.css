@@ -5,3 +5,7 @@ h1 {
 .P-card {
     font-weight: bold;
 } 
+
+table {
+    background-color: blue;
+}
